@@ -2,26 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ca93776-6771-455a-ac88-2eba79fa0ac9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_10/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_10/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_11/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_11/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_15/Math.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_15/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_17/ArrayCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_17/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_18/ArrayCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_18/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_19/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_19/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_2/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_6/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_6/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_8/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_8/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_9/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_9/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_21/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_21/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_22/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_22/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_23/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_23/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_24/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_24/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_25/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_25/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_26/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_26/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_27/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_27/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_28/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_28/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_31/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_31/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_31/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_32/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_32/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_32/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_34/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_34/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_34/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_34/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_35/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_35/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_35/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_36/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_36/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +50,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="2Udhsd1cxw28dVFbmFhMoePdZ99" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -62,13 +85,13 @@
       <recent name="D:\FPT Aptech\Java_Programing-I\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main (4)">
+  <component name="RunManager" selected="Application.main (5)">
     <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeLean.io.JavaOop_15.main" />
+      <option name="MAIN_CLASS_NAME" value="codeLean.io.JavaOop_31.main" />
       <module name="Java_Programing-I" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeLean.io.JavaOop_15.*" />
+          <option name="PATTERN" value="codeLean.io.JavaOop_31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,11 +100,11 @@
       </method>
     </configuration>
     <configuration name="main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeLean.io.JavaOop_17.main" />
+      <option name="MAIN_CLASS_NAME" value="codeLean.io.JavaOop_32.main" />
       <module name="Java_Programing-I" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeLean.io.JavaOop_17.*" />
+          <option name="PATTERN" value="codeLean.io.JavaOop_32.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,11 +113,11 @@
       </method>
     </configuration>
     <configuration name="main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeLean.io.JavaOop_18.main" />
+      <option name="MAIN_CLASS_NAME" value="codeLean.io.JavaOop_34.main" />
       <module name="Java_Programing-I" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeLean.io.JavaOop_18.*" />
+          <option name="PATTERN" value="codeLean.io.JavaOop_34.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +126,11 @@
       </method>
     </configuration>
     <configuration name="main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeLean.io.JavaOop_19.main" />
+      <option name="MAIN_CLASS_NAME" value="codeLean.io.JavaOop_35.main" />
       <module name="Java_Programing-I" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeLean.io.JavaOop_19.*" />
+          <option name="PATTERN" value="codeLean.io.JavaOop_35.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeLean.io.JavaOop_11.main" />
+    <configuration name="main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeLean.io.JavaOop_36.main" />
       <module name="Java_Programing-I" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeLean.io.JavaOop_11.*" />
+          <option name="PATTERN" value="codeLean.io.JavaOop_36.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main (5)" />
         <item itemvalue="Application.main (4)" />
         <item itemvalue="Application.main (3)" />
         <item itemvalue="Application.main (2)" />
         <item itemvalue="Application.main (1)" />
-        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +181,8 @@
       <option name="presentableId" value="Default" />
       <updated>1693275575627</updated>
       <workItem from="1693275578262" duration="5874000" />
+      <workItem from="1693296123202" duration="7336000" />
+      <workItem from="1693324077424" duration="3685000" />
     </task>
     <servers />
   </component>
@@ -174,5 +199,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
