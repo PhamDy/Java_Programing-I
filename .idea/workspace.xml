@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ca93776-6771-455a-ac88-2eba79fa0ac9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_10/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_10/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_11/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_11/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_15/Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_15/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_17/ArrayCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_17/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_18/ArrayCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_18/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_19/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_19/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_2/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_6/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_6/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_8/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_8/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_9/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeLean.io/JavaOop_9/main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Udhsd1cxw28dVFbmFhMoePdZ99" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\FPT Aptech\Java_Programing-I\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.main (4)">
+    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeLean.io.JavaOop_15.main" />
+      <module name="Java_Programing-I" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeLean.io.JavaOop_15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeLean.io.JavaOop_17.main" />
+      <module name="Java_Programing-I" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeLean.io.JavaOop_17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeLean.io.JavaOop_18.main" />
+      <module name="Java_Programing-I" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeLean.io.JavaOop_18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeLean.io.JavaOop_19.main" />
+      <module name="Java_Programing-I" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeLean.io.JavaOop_19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeLean.io.JavaOop_11.main" />
+      <module name="Java_Programing-I" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeLean.io.JavaOop_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main (4)" />
+        <item itemvalue="Application.main (3)" />
+        <item itemvalue="Application.main (2)" />
+        <item itemvalue="Application.main (1)" />
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ca93776-6771-455a-ac88-2eba79fa0ac9" name="Default Changelist" comment="" />
+      <created>1693275575627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693275575627</updated>
+      <workItem from="1693275578262" duration="5874000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
