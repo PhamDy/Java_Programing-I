@@ -1,84 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e748d350-453f-4f3b-8596-3dd85f4a1683" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Slot2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/Java_Programing-I.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_10/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_10/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_11/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_11/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_15/Math.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_15/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_17/ArrayCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_17/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_18/ArrayCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_18/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_19/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_19/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_2/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_2/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_21/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_21/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_22/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_22/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_23/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_23/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_24/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_24/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_25/Date.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_25/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_26/Time.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_26/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_27/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_27/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_28/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_28/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_3/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_3/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_31/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_31/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_31/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_32/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_32/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_32/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_34/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_34/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_34/Teacher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_34/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_35/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_35/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_35/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_36/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_36/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_41/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_41/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_41/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_41/Duck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_41/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_44/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_44/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_44/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_44/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_45/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_45/IShape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_45/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_45/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_46/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_46/FullTimeEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_46/IEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_46/PartTimeEmployee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_46/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_6/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_6/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_8/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_8/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_9/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slot2/out/production/Java_Programing-I/codeLean/io/JavaOop_9/main.class" beforeDir="false" />
-    </list>
+    <list default="true" id="e748d350-453f-4f3b-8596-3dd85f4a1683" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,6 +37,7 @@
       <updated>1693387445392</updated>
       <workItem from="1693387449394" duration="16000" />
       <workItem from="1693387732436" duration="8000" />
+      <workItem from="1693846251751" duration="195000" />
     </task>
     <servers />
   </component>
